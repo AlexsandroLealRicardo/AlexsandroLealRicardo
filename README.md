@@ -6,9 +6,6 @@
 
 💻 Meu foco hoje esta em JavaWeb  
 
-
-Softwares, linguagens, frameworks e bibliotecas que utilizo:
-
 <div>
 
 <h2>Redes socias</h2>
