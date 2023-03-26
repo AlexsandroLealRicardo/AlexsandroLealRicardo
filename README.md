@@ -30,20 +30,9 @@
         <br>
         <span>CSS3</span>
       </td>
-        </td>
-       <td width="25%" align="center">
-        <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/03899ca15bc7682cad570e2638be85926777122dce4b90151d5efc897660d5cd/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6e6f64656a732e706e67"><img height="64px" src="https://camo.githubusercontent.com/03899ca15bc7682cad570e2638be85926777122dce4b90151d5efc897660d5cd/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6e6f64656a732e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/nodejs.png" style="max-width: 100%;"></a>
-        <br>
-        <span>Node.js</span>
-      </td>
+        
     </span></span></td>
-   </tr>
-    <tr>
-      <td width="25%" align="center">
-        <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2badf7d76ce3d128c84cbc1f96709ab9ff04aaf9c387bbd26b3e8646df995ec7/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f7068702e706e67"><img height="64px" src="https://camo.githubusercontent.com/2badf7d76ce3d128c84cbc1f96709ab9ff04aaf9c387bbd26b3e8646df995ec7/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f7068702e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/php.png" style="max-width: 100%;"></a>
-        <br>
-        <span>PHP</span>
-      </td>
+
       <td width="25%" align="center">
         <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f2e55992ca80a5e95192891e0a5027243789561975b6bceb31437b3f6ad1d1da/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176612d636f666665652d6375702d6c6f676f2e706e67"><img height="64px" src="https://camo.githubusercontent.com/f2e55992ca80a5e95192891e0a5027243789561975b6bceb31437b3f6ad1d1da/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176612d636f666665652d6375702d6c6f676f2e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" style="max-width: 100%;"></a>
         <br>
