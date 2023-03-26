@@ -30,11 +30,7 @@
         <br>
         <span>CSS3</span>
       </td>
-      <td width="25%" align="center">
-        <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/da839b79b282a7658a172f07e13496fb18bcf9fa624d061def0e80f47a68ff1d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176617363726970742e706e67"><img height="64px" src="https://camo.githubusercontent.com/da839b79b282a7658a172f07e13496fb18bcf9fa624d061def0e80f47a68ff1d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176617363726970742e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/javascript.png" style="max-width: 100%;"></a>
-        <br>
-        <span>JavaScript</span>
-      </td>
+        </td>
        <td width="25%" align="center">
         <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/03899ca15bc7682cad570e2638be85926777122dce4b90151d5efc897660d5cd/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6e6f64656a732e706e67"><img height="64px" src="https://camo.githubusercontent.com/03899ca15bc7682cad570e2638be85926777122dce4b90151d5efc897660d5cd/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6e6f64656a732e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/nodejs.png" style="max-width: 100%;"></a>
         <br>
