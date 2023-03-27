@@ -38,6 +38,20 @@
                 <p style="text-align:center"><img alt="Adobe PhotoShop" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png" style="height:48px; width:48px" /></p>
                   <p style="text-align:center"><strong>&nbsp;PhotoShop</strong></p>
                 </td>
+    <td style="width:98px">
+                <p style="text-align:center"><img alt="WordPress" src="https://img.icons8.com/color/48/000000/wordpress.png" style="height:48px; width:48px" /></p>
     
+                <p style="text-align:center"><strong>WordPress</strong></p>
+                </td>
+                <td style="width:105px">
+                <p style="text-align:center"><img alt="Joomla" src="https://img.icons8.com/color/48/000000/joomla.png" style="height:48px; width:48px" /></p>
+    
+                <p style="text-align:center"><strong>Joomla</strong></p>
+                </td>
+                <td style="width:101px">
+                <p style="text-align:center"><strong><img alt="Git" src="https://img.icons8.com/color/48/000000/git.png" style="height:48px; width:48px" /></strong></p>
+    
+                <p style="text-align:center"><strong>Git</strong></p>
+                </td>
           </tbody>
     </table>
