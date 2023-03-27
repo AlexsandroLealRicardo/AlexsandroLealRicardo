@@ -22,6 +22,6 @@
         <tbody>
             <tr>
                 <td style="width:96px">
-                <p style="text-align:center"><img alt="HTML5" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png" style="height:48px; width:48px" /></p>
+                <p style="text-align:center"><img alt="HTML5" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png" style="height:48px; width:48px" />HTML5</p>
              </tbody>
     </table>
