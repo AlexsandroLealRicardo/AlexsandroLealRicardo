@@ -73,3 +73,5 @@
     
                 <p style="text-align:center"><strong>Linux</strong></p>
                 </td>
+        </tbody>
+        </table>
