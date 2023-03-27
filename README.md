@@ -46,6 +46,9 @@
                 <p style="text-align:center"><img alt="Joomla" src="https://img.icons8.com/color/48/000000/joomla.png" style="height:48px; width:48px" /></p>
                 <p style="text-align:center"><strong>Joomla</strong></p>
             </td>
-  
+            <td style="width:101px">
+             <p style="text-align:center"><strong><img alt="Git" src="https://img.icons8.com/color/48/000000/git.png" style="height:48px; width:48px" /></strong></p>
+             <p style="text-align:center"><strong>Git</strong></p>
+            </td>
           </tbody>
     </table>
