@@ -59,9 +59,8 @@
      <p style="text-align:center"><strong>Linux</strong></p>
   </td>
           <td style="width:105px">
-                <p style="text-align:center"><strong><img alt="Windows" src="https://img.icons8.com/fluency/48/000000/windows-10.png" style="height:48px; width:48px" /></strong></p>
-    
-                <p style="text-align:center"><strong>Windows</strong></p>
+                        <p style="text-align:center"><strong><img alt="Windows" src="https://img.icons8.com/fluency/48/000000/windows-10.png" style="height:48px; width:48px" /></strong></p>
+      <p style="text-align:center"><strong>Windows</strong></p>
                 </td>
            </tbody>
     </table>
