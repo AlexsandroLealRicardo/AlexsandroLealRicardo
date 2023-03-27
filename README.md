@@ -25,6 +25,11 @@
                 <p style="text-align:center"><img alt="HTML5" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png" style="height:48px; width:48px" /><p><strong>HTML5</strong></p>
                 <td style="width:98px">
 <p style="text-align:center"><img alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png" style="height:48px; width:48px" /><p><strong>CSS3</strong></p>
+                    </td>     
+            <td style="width:105px">
+ <p style="text-align:center"><img alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" style="height:48px; width:48px" /> <p style="text-align:center"><strong>Java</strong></p></p>
+    
+               
                 </td>
-             </tbody>
+          </tbody>
     </table>
