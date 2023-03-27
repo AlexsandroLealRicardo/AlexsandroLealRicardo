@@ -52,8 +52,10 @@
             </td>
               <tr>
                 <td style="text-align:center; width:96px">
-                <p><strong><img alt="PostgreSQL" src="https://img.icons8.com/color/48/000000/postgreesql.png" style="height:48px; width:48px" />PostgreSQL</strong></p>
-                </td>
+                <p><strong><img alt="PostgreSQL" src="https://img.icons8.com/color/48/000000/postgreesql.png" style="height:48px; width:48px" /></strong></p>
+                <p style="text-align:center"><strong>PostgreSQL</strong></p>
+                   </td>
+                
     <td style="width:98px">
       <p style="text-align:center"><strong><img alt="Linux" src="https://img.icons8.com/color/48/000000/linux--v1.png" style="height:48px; width:48px" /></strong></p>
      <p style="text-align:center"><strong>Linux</strong></p>
