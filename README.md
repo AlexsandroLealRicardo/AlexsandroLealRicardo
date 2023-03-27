@@ -33,6 +33,10 @@
                 <p style="text-align:center"><img alt="SpringBoot" src="https://img.icons8.com/color/48/000000/spring-logo.png" style="height:48px; width:48px" /></p>
                  <p style="text-align:center"><strong>SpringBoot</strong></p>
                 </td>
-              
+               <tr>
+                <td style="width:96px">
+                <p style="text-align:center"><img alt="Adobe PhotoShop" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png" style="height:48px; width:48px" /></p>
+                  <p style="text-align:center"><strong>&nbsp;PhotoShop</strong></p>
+                </td>
           </tbody>
     </table>
