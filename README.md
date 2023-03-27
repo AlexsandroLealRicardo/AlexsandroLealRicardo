@@ -29,5 +29,10 @@
             <td style="width:105px">
  <p style="text-align:center"><img alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" style="height:48px; width:48px" /><p> <strong>Java</strong></p>     
                 </td>
+             <td style="width:101px">
+                <p style="text-align:center"><img alt="SpringBoot" src="https://img.icons8.com/color/48/000000/spring-logo.png" style="height:48px; width:48px" /></p>
+                 <p style="text-align:center"><strong>SpringBoot</strong></p>
+                </td>
+              
           </tbody>
     </table>
