@@ -69,6 +69,3 @@
       <p style="text-align:center"><strong>AWS</strong></p>
       </td>
  </tr>
-         
-           </tbody>
-    </table>
