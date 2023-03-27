@@ -42,6 +42,10 @@
                 <p style="text-align:center"><img alt="WordPress" src="https://img.icons8.com/color/48/000000/wordpress.png" style="height:48px; width:48px" /></p>
                  <p style="text-align:center"><strong>WordPress</strong></p>
            </td>
+            <td style="width:105px">
+                <p style="text-align:center"><img alt="Joomla" src="https://img.icons8.com/color/48/000000/joomla.png" style="height:48px; width:48px" /></p>
+                <p style="text-align:center"><strong>Joomla</strong></p>
+            </td>
   
           </tbody>
     </table>
