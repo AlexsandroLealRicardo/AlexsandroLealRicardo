@@ -59,6 +59,5 @@
       <p style="text-align:center"><strong><img alt="AWS" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" style="height:48px; width:48px" /></strong></p>
       <p style="text-align:center"><strong>AWS</strong></p>
       </td>
- </tr>
-                 
+ </tr>    
 
