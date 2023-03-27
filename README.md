@@ -67,3 +67,9 @@
       <p style="text-align:center"><strong>AWS</strong></p>
       </td>
  </tr>
+                
+                 <td style="width:98px">
+                <p style="text-align:center"><strong><img alt="Linux" src="https://img.icons8.com/color/48/000000/linux--v1.png" style="height:48px; width:48px" /></strong></p>
+    
+                <p style="text-align:center"><strong>Linux</strong></p>
+                </td>
