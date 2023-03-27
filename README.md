@@ -50,5 +50,9 @@
              <p style="text-align:center"><strong><img alt="Git" src="https://img.icons8.com/color/48/000000/git.png" style="height:48px; width:48px" /></strong></p>
              <p style="text-align:center"><strong>Git</strong></p>
             </td>
+         <tr>
+           <td style="text-align:center; width:96px">
+                <p><strong><img alt="PostgreSQL" src="https://img.icons8.com/color/48/000000/postgreesql.png" style="height:48px; width:48px" />PostgreSQL</strong></p>
+                </td>             
           </tbody>
     </table>
