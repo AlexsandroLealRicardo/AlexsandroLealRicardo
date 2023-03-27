@@ -27,9 +27,7 @@
 <p style="text-align:center"><img alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png" style="height:48px; width:48px" /><p><strong>CSS3</strong></p>
                     </td>     
             <td style="width:105px">
- <p style="text-align:center"><img alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" style="height:48px; width:48px" /> <p style="text-align:center"><strong>Java</strong></p></p>
-    
-               
+ <p style="text-align:center"><img alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" style="height:48px; width:48px" /><p> <strong>Java</strong></p>     
                 </td>
           </tbody>
     </table>
