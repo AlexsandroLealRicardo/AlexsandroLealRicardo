@@ -2,7 +2,7 @@
 
 📌 Moro em florianópolis - Santa Catarina
 
-🎓Formado em ADS | MikrotiK | Linux | Analista de Suporte
+🎓Formado em ADS | MikrotiK | Linux | InfraEstrutura
 
 💻 Meu foco hoje esta em JavaWeb  
 
