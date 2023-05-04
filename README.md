@@ -4,7 +4,7 @@
 
 🎓Formado em ADS | MikrotiK | InfraEstrutura | Programação
 
-💻 Meu foco hoje esta em JavaWeb  
+💻 Meu foco hoje esta em Grandes Tecnologias  
 
 <div>
 
